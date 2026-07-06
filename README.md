@@ -1,5 +1,5 @@
-# CinnaPaper
-
+<img src="cinnapaper.png" alt="CinnaPaper Logo." width="200px"> # CinnaPaper
+<hr/>
 A fullscreen, click-through paper-like overlay for Linux Mint/Cinnamon that reduces eye strain with customizable presets, automatic scheduling, and multi-monitor support.
 
 ## Features
@@ -13,6 +13,10 @@ A fullscreen, click-through paper-like overlay for Linux Mint/Cinnamon that redu
 - **Soft grain texture** — adds paper-like authenticity
 - **Settings persistence** — saves your preferences
 - **System tray integration** — quick access to presets and settings
+
+<img src="CinnaPaperSC1.png" alt="CinnaPaper Tray Icon." width="300px"> 
+<img src="CinnaPaperSC3.png" alt="CinnaPaper Settings." width="300px"> 
+<img src="CinnaPaperVidSC.png" alt="CinnaPaper Overview." width="600px"> 
 
 ## Installation
 
