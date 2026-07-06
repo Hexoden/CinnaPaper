@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=CinnaPaper
+Comment=Fullscreen paper-like overlay for reducing eye strain
+Exec=%INSTALL_DIR%/run_paper_overlay.sh
+Icon=cinnapaper
+Terminal=false
+Type=Application
+Categories=Utility;Accessibility;
+StartupNotify=false
+X-GNOME-Autostart-enabled=false
+Keywords=overlay;eye-comfort;paper;filter;blue-light;
