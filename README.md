@@ -13,9 +13,12 @@ A fullscreen, click-through paper-like overlay for Linux Mint/Cinnamon that redu
 - **Soft grain texture** — adds paper-like authenticity
 - **Settings persistence** — saves your preferences
 - **System tray integration** — quick access to presets and settings
-
-<img src="CinnaPaperSC1.png" alt="CinnaPaper Tray Icon." width="300px"> 
-<img src="CinnaPaperSC3.png" alt="CinnaPaper Settings." width="300px"> 
+<table>
+  <tr>
+    <td><img src="CinnaPaperSC1.png" alt="CinnaPaper Tray Icon." width="300px"> /td>
+    <td><img src="CinnaPaperSC3.png" alt="CinnaPaper Settings." width="300px"> </td>
+  </tr>
+</table>
 <img src="CinnaPaperVidSC.png" alt="CinnaPaper Overview." width="600px"> 
 
 ## Installation
