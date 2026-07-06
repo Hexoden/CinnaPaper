@@ -1,4 +1,4 @@
-<img src="cinnapaper.png" alt="CinnaPaper Logo." width="200px"> # CinnaPaper
+<img src="cinnapaper.png" alt="CinnaPaper Logo." width="200px"> <h1>CinnaPaper</h1>
 <hr/>
 A fullscreen, click-through paper-like overlay for Linux Mint/Cinnamon that reduces eye strain with customizable presets, automatic scheduling, and multi-monitor support.
 
